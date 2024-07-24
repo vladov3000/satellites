@@ -1,0 +1,6 @@
+== Satellites Game ==
+
+Demo Video: https://x.com/vladov3000/status/1816129547563380975
+
+To build, compile main.cpp with your favorite C++ compiles and SDL2.
+There is an existing build.sh script for mac.
